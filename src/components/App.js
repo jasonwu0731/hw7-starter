@@ -34,6 +34,7 @@ class App extends Component {
     return (
       <div>
         <h1>App</h1>
+        <h2>Chien-Sheng Wu '2016/11/15'</h2>
         <ul>
           <li><a href="#/">Home</a></li>
           <li><a href="#/users">Users</a></li>
